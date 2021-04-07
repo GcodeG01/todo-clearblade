@@ -1,0 +1,9 @@
+.btnDelete {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  background-color: #555;
+}
